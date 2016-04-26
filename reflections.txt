@@ -7,3 +7,19 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+1. What new skills have you learned?
+
+我以前学了一些HTML知识，所以这次学习中，我学到的新技能有：<sup>是把文字变为上标；<s>是删除线；同时学到了一些查阅技术文档的网站和方法。
+
+2. What has been easy?
+
+基本而常用的HTML元素对我来说比较简单。
+
+3. What has been difficult?
+
+英文文档的阅读对我来说最难。因为我的词汇量有限。
+
+4. How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+仔细看视频，运用Pomodoro管理时间集中注意力学习，在测验的时候严格按要求写作；如果遇到不懂的单词我就查字典（技术文档也是如此），并借助Google结合我的语言攻克难题。同时在做完后检查一遍，确保自己没有纰漏。
